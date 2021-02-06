@@ -1,3 +1,5 @@
+This is My fork for suckless' sent. Terminal presentations suck so this rocks. I have progressbar, custom color/font, bilenear patches applied, with some minor adjustments.
+
 sent is a simple plaintext presentation tool.
 
 sent does not need latex, libreoffice or any other fancy file format, it uses
